@@ -6,4 +6,4 @@ Website interfaces for travel in Saudi Arabia using HTML-CSS
 
 
 ![view Read More](screenshots/ViewReadMore.png)
-A new page appears on the official tourism website for readers with more details about the cities.
+When you click the "read more" button, a new page appears on the official tourist website for readers containing more details about the cities.
